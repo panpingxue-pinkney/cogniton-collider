@@ -140,3 +140,5 @@ Please refer to [CONTRIBUTING.md](docs/CONTRIBUTING.md). We are actively seeking
 * 📧 Email: academic@cogniton.org (Personal response guaranteed).
 * 💬 Discord: `/academic` channel is open.
 * 📋 Sign the MOU to obtain formal Academic Collaboration Authorization.
+
+### 🎖️ [Manifesto](https://zenodo.org/records/17770007)
