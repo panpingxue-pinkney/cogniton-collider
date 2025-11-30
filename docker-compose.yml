@@ -1,0 +1,13 @@
+# docker-compose.yml
+version: '3.8'
+
+services:
+  collider:
+    build: .
+    container_name: cogniton_collider_v0
+    command: python launcher/collider.py --run-daily
+    volumes:
+      - .:/app
+    ports:
+      - "8000:8000" # Placeholder port for future API/web client
+    restart: unless-stopped

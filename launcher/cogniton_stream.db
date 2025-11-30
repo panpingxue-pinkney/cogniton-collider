@@ -1,0 +1,11 @@
+# launcher/cogniton_stream.db
+# 
+# This file is an empty placeholder. 
+# It represents the SQLite database that will be created and managed by
+# 'launcher/stream.py' and 'launcher/collider.py'.
+# 
+# It stores the live stream of Cogniton data structures (C-Structs) 
+# before and after the collision process.
+#
+# Primary Table: COGNITONS (Storing C-Struct data)
+# Secondary Table: COLLISION_LOGS (Storing Omega_m Meson data)
